@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.container .ex{
+    padding: 15px;
+}
+
+.container .ex h5{
+    font-size: 20px;
+    padding: 10px;
+}
+
+.container .ex p{
+    padding: 2px;
+}
+
+.container .ex input{
+    width: 100px;
+}
+
